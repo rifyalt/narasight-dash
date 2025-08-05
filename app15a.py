@@ -1,8 +1,9 @@
+import plotly.express as px
+import plotly
 import streamlit as st
 import pandas as pd
 #import openai
-import plotly.express as px
-import plotly   
+   
 # ===== USER CREDENTIALS =====
 from openai import OpenAI
 from io import BytesIO
